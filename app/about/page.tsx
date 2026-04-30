@@ -8,7 +8,7 @@ export default function About() {
     <main className="pt-16">
       <div className="relative h-[400px] overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200"
+          src="/images/5.jpg"
           alt="About Us"
           fill
           className="object-cover"
@@ -48,7 +48,7 @@ export default function About() {
             </div>
             <div className="relative h-64 rounded-2xl overflow-hidden">
               <Image
-                src="https://images.unsplash.com/photo-1556741533-6e6a3bd8e341?w=600"
+                src="/images/6.jpg"
                 alt="Our Mission"
                 fill
                 className="object-cover"
@@ -61,7 +61,7 @@ export default function About() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
             <div className="relative h-64 rounded-2xl overflow-hidden order-2 md:order-1">
               <Image
-                src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=600"
+                src="/images/6.webp"
                 alt="Our Vision"
                 fill
                 className="object-cover"
